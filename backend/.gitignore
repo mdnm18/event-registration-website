@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Data
+backup-*.json
+registrations.json
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
